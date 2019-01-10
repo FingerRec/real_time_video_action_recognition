@@ -25,11 +25,13 @@ Two test video provided in directory test_video/. Video can be merged  [here](ht
 
 This code can be run directly use cpu, but it will cause delay.With  **gpu**, it will run real-time recognition very well.
 
-## trined model
+## trained model
 
 Dropbox:[c3d_pretrained_model](https://www.dropbox.com/sh/8wcjrcadx4r31ux/AAAkz3dQ706pPO8ZavrztRCca?dl=0)
 
 Baiduyun: 链接:https://pan.baidu.com/s/1IRVhEQSvz7OlZUi5iPcEgQ  密码:z1k2
+
+download this model and load it directly.
 
 ## Others
 This demo's pretrained model is based on [C3D-tensorflow](https://github.com/hx173149/C3D-tensorflow)
