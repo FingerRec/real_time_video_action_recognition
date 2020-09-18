@@ -1,11 +1,14 @@
 # real time action recognition
 ## example
 
-![]((https://github.com/FingerRec/real_time_video_action_recognition/raw/master/resources/test_gif.gif))
+### In Cpu;
+![](https://github.com/FingerRec/real_time_video_action_recognition/raw/master/resources/test_gif.gif)
+
+**Run GPU with no delay.**
 
 the video cann't show here, the below are some capture images.
 
-![]((https://github.com/FingerRec/real_time_video_action_recognition/raw/master/resources/test_1.jpg))
+![](https://github.com/FingerRec/real_time_video_action_recognition/raw/master/resources/test_1.jpg)
 
 
 ## prepare
