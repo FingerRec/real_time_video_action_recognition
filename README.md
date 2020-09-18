@@ -1,4 +1,5 @@
 # real time action recognition
+
 ## example
 
 ### In Cpu;
@@ -36,4 +37,6 @@ Baiduyun: 链接:https://pan.baidu.com/s/1IRVhEQSvz7OlZUi5iPcEgQ  密码:z1k2
 download this model and load it directly.
 
 ## Others
-This demo's pretrained model is based on [C3D-tensorflow](https://github.com/hx173149/C3D-tensorflow)
+This demo's pretrained model is based on [C3D-tensorflow](https://github.com/hx173149/C3D-tensorflow);
+
+If you want the Pytorch version or R3D/I3D etc, please tell me and I will update this code.
