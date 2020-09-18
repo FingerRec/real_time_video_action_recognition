@@ -1,13 +1,12 @@
 # real time action recognition
 ## example
 
-![](http://owvctf4l4.bkt.clouddn.com/ql41i-wgywx.gif)
+![]((https://github.com/FingerRec/real_time_video_action_recognition/raw/master/resources/test_gif.gif))
 
 the video cann't show here, the below are some capture images.
 
-![](http://owvctf4l4.bkt.clouddn.com/video_classification_img1.png)
+![]((https://github.com/FingerRec/real_time_video_action_recognition/raw/master/resources/test_1.jpg))
 
-![](http://owvctf4l4.bkt.clouddn.com/video_classification_img2.png)
 
 ## prepare
 * tensorflow 1.2+  
